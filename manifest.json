@@ -1,0 +1,6 @@
+{
+    "name": "requestr",
+    "version": "0.1",
+    "description": "See all your connections/follow/friend requests in one page",
+    "manifest_version": 2
+  }
